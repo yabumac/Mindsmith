@@ -28,7 +28,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     reply_markup = InlineKeyboardMarkup(keyboard)
     await update.message.reply_text("👋 Welcome! Select a course to begin:", reply_markup=reply_markup)
-
+#entry point
 # Register handlers
 ptb_app.add_handler(CommandHandler("start", start))
 
