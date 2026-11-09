@@ -14,7 +14,6 @@ COURSES = [
     {"name": "Assessment & Classroom Management for Ethiopian Primary Teachers", "url": "https://app.mindsmith.ai/learn/cmo4cwxj4003p04l5gp140980"},
     {"name": "AI for Teaching & Learning", "url": "https://app.mindsmith.ai/learn/cmsjcj6r9000304lazku7dqc2"},
     {"name": "Digital Pedagogy Course", "url": "https://app.mindsmith.ai/learn/cmvz626c7000008l00xqa8ydb"},
-    {"name": "AI for Teaching & Learning", "url": "https://app.mindsmith.ai/learn/cmsjcj6r9000304lazku7dqc2"},
 ]
 
 app = FastAPI()
